@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% highlight java %}
 class HelloWorld
 {
-   public static void main(String args[])
+   public static void main(String[] args)
    {
       System.out.println("Hello World!");
    }
